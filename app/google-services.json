@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "15379594227",
+    "project_id": "speaktovoicetranslate",
+    "storage_bucket": "speaktovoicetranslate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15379594227:android:f1e27e077ba07b8d987086",
+        "android_client_info": {
+          "package_name": "com.speak.voice.translate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15379594227-em7jelin9ctej0gnfl258k773sc1hrcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.speak.voice.translate",
+            "certificate_hash": "4485208cdcb89ff74208f128e7e81a1ee6901df1"
+          }
+        },
+        {
+          "client_id": "15379594227-t1cht293g8tgrp7k5olqr41ffpa34b5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl6x2HNHNhMTEv_by0rR_qAKtwqOnfntQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15379594227-t1cht293g8tgrp7k5olqr41ffpa34b5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
